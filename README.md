@@ -1,8 +1,8 @@
 # FAAC
 
-__ This project was created as a part of final year project __
+__This project was created as a part of final year project__
 
-__ Following is it's tech stack: __
+__Following is it's tech stack:__
 - HTML/CSS for designing frontend
 - PHP for backend of the website
 - Python for collecting tweets and for training and running ML models
